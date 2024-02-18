@@ -9,7 +9,8 @@ This repository contains Python code for generating advertisement compositions u
     ```bash
     pip install git+https://github.com/GabrieleSgroi/image_composition_diffusion
     ```
-  You can also run the following line of code 
+    
+    You can also run the following line of code 
 
     ```
     pip install -r requirements.txt
